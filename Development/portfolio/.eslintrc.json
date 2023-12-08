@@ -1,7 +1,10 @@
 {
-  "extends": "next",
+  "extends": ["next/core-web-vitals"],
+
+  // Add or modify the rules section as follows
   "rules": {
-    "react/no-unescaped-entities": "off",
-    "@next/next/no-page-custom-font": "off"
+    // Other rules...
+
+    "react/no-unescaped-entities": "off" // or "warn" or "error"
   }
 }

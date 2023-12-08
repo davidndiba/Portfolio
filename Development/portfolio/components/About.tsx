@@ -22,16 +22,9 @@ const About = () => {
           <p>
             Fast-forward to today, and I have had the privilege of working at an
             advertising agency, a start-up,{" "}
-             {/* eslint-disable react/no-unescaped-entities 
-             Your code with unescaped single quote
-             eslint-enable react/no-unescaped-entities  */}
-
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
             <span className="text-textGreen">
-            and  a student-led design studio.
-            </span>
-            {" "}
-            <span className="text-textGreen">
-             
+              and a student-led design studio.
             </span>
           </p>
           <p>
