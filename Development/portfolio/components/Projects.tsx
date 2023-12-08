@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://nextamazon.reactbd.com/"
+            href="https://recipes-corns.vercel.app/"
             target="_blank"
           >
             <div>
@@ -31,39 +31,31 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">Recipes </h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
               An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+              website. View your recipes, Add your account with{" "}
+              <span className="text-textGreen">JWT-auth</span> and then browse your 
+               <span className="text-textGreen">Recipes</span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
+              <li>React.js</li>
+              <li>JWT-auth</li>
+              <li>Flask</li>
               <li>Vercel Deployment</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href=""
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/WzMtRfzkP-Q"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                className="hover:text-textGreen duration-300"
-                href="https://nextamazon.reactbd.com/"
+                href="https://recipes-corns.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -120,13 +112,6 @@ const Projects = () => {
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/49Fx963su1I"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                className="hover:text-textGreen duration-300"
                 href="https://www.noormohmmad.com/"
                 target="_blank"
               >
@@ -140,7 +125,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://noorshop.netlify.app/"
+            href=""
             target="_blank"
           >
             <div>
@@ -157,13 +142,14 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold"> Book and order salon and cosmetics services</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+              A website for visualizing personalized beauty products and services
+              . View your products, Add your account with{" "}
+              <span className="text-textGreen">JWT-auth</span> and then make the
+              purchage using <span className="text-textGreen">M-pesa</span>.
+              and have the opportunity to book an appointment with a stylist of your choice
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>Nextjs</li>
@@ -175,21 +161,14 @@ const Projects = () => {
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/davidndiba"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/fi0nQc25xAw"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                className="hover:text-textGreen duration-300"
-                href="https://noorshop.netlify.app/"
+                href=""
                 target="_blank"
               >
                 <RxOpenInNewWindow />

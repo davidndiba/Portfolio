@@ -35,7 +35,7 @@ const Archive = () => {
           des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
             laudantium velit qui sint non, voluptates quo a veritatis."
           listItem={["Reactjs", "Tailwind CSS", "getform.io"]}
-          link="https://portfolioone.reactbd.com/"
+          link="https://portfolio-kappa-eight-92.vercel.app/"
         />
 
         {showMore && (
