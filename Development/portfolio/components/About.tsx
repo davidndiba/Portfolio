@@ -20,8 +20,12 @@ const About = () => {
             CSS!
           </p>
           <p>
-            Fast-forward to today, and I've had the privilege of working at an
+            Fast-forward to today, and I have had the privilege of working at an
             advertising agency, a start-up,{" "}
+             {/* eslint-disable react/no-unescaped-entities 
+             Your code with unescaped single quote
+             eslint-enable react/no-unescaped-entities  */}
+
             <span className="text-textGreen">
             and  a student-led design studio.
             </span>
